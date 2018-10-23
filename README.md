@@ -12,7 +12,7 @@ This notebook explains data science pipeline.
 
 According to recent Glassdoor survey, nearly 35 percent of hiring decision makers expect more employees to quit over the span of 2018 than they did in 2017.
 
-[Glassdoor Survey](https://www.glassdoor.com/press/glassdoor-survey-finds-more-employees-expected-to-quit-in-upcoming-year/)
+[Glassdoor Survey](https://www.glassdoor.com/about-us/glassdoor-survey-finds-more-employees-expected-to-quit-in-upcoming-year/)
 
 ## Data Science Question
 
