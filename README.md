@@ -14,6 +14,9 @@ According to recent Glassdoor survey, nearly 35 percent of hiring decision maker
 
 [Glassdoor Survey](https://www.glassdoor.com/about-us/glassdoor-survey-finds-more-employees-expected-to-quit-in-upcoming-year/)
 
+The goal is to exemplify the process in making data provide resolution for employee attrition problem. The cost of employee attrition is enormous. Attrition from resignation or retirement demands additional work hours from remaining employees.
+Whereas, long-term employees would have created a good rapport with customers and clients during their period of service. Losing them create the risk of losing customers and clients to competitors. This code patterns walks you through every step in data science life cycle and arms you with different tools, techniques, and algorithms that can be used to solve the attrition problem. Some highlighting tools are pixiedust, AIF360, pandas, and Jupyter notebook. The model will be deployed on Watson Machine Learning that provides you with an interactive dashboard to test the model.
+
 ## Data Science Question
 
 1. Can we find the factors having significant contribution to employee attrition?
