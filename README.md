@@ -1,4 +1,4 @@
-# Employee_attrition_use_case
+# Employee_attrition
 
 This notebook explains data science pipeline.
 
